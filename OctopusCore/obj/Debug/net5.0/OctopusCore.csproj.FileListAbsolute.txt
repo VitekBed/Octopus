@@ -21,3 +21,8 @@ C:\Users\vitek\source\repos\VitekBed\Octopus\OctopusCore\obj\Debug\net5.0\Octopu
 C:\Users\vitek\source\repos\VitekBed\Octopus\OctopusCore\obj\Debug\net5.0\ref\OctopusCore.dll
 C:\Users\vitek\source\repos\VitekBed\Octopus\OctopusCore\obj\Debug\net5.0\OctopusCore.pdb
 C:\Users\vitek\source\repos\VitekBed\Octopus\OctopusCore\obj\Debug\net5.0\OctopusCore.genruntimeconfig.cache
+C:\Users\vitek\source\repos\VitekBed\Octopus\OctopusCore\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vitek\source\repos\VitekBed\Octopus\OctopusCore\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\vitek\source\repos\VitekBed\Octopus\OctopusCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\vitek\source\repos\VitekBed\Octopus\OctopusCore\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\vitek\source\repos\VitekBed\Octopus\OctopusCore\obj\Debug\net5.0\OctopusCore.csproj.CopyComplete

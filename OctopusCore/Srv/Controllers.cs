@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace OctopusCore.Srv
 {
@@ -6,9 +7,20 @@ namespace OctopusCore.Srv
     {
         [HttpPost("/get")]
         [HttpGet("/get")]
-        public string Entry([FromBody] string value)
+        public P Get ([FromBody] Q value)
         {
-            return Depot.Enter(value);    
+            return value.employees.ToArray()[1];
+            //return Depot.Enter(value.ToString());    
         }
+    }
+
+    public struct Q
+    {
+        public List<P> employees { get; set; }
+    }
+    public struct P
+    {
+        public string firstName { get; set; }
+        public string lastName { get; set; }
     }
 }

@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "eBJ5t3ZBdqIumG2S/3hTi/Nq+aptGkKAEH/Z0v4BGV/CZRLJjIjGaowZs7krblUudvQBd734PW7JMflCzNiU8g==",
+  "dgSpecHash": "Kd4Rl2SudfuIpyjf3fI4qrCVZRRpSsUP1fLsYjHNhZ4UCjQtVQBUkE7xcJAzqXKe9aJpmjekfF8ei9LCZ6Ltkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\vitek\\source\\repos\\VitekBed\\Octopus\\OctopusCore\\OctopusCore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vitek\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.7\\microsoft.aspnetcore.jsonpatch.5.0.7.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.7\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.7.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -16,7 +16,7 @@ namespace OctopusCore
         {
 
 
-            return string.Empty;
+            return context;
         }
 
     }
